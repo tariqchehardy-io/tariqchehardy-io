@@ -1,10 +1,8 @@
-### Hi, I'm Tariq 👋
+### 👋 We build software
 
-Founder of **Tariq Chehardy LLC**. I build sovereign workstation tooling — self-contained dispatch and operations systems that run on infrastructure you own:
+Tariq Chehardy LLC — software developers. We write scripts, programs, and tools that do real work.
 
-- **FUSE** — a dispatch console for sovereign workstations
-- **Poke** — an AI assistant build, maintained by the company
+**Poke AI** — our flagship AI assistant.
+https://poke.skill · https://pokemd.github.io
 
-📍 Official site: [Tariq Chehardy LLC](https://tariqchehardy-io.github.io/tariq-che-hardy-llc/)
-
-Open to collaboration on automation, self-hosted infrastructure, and developer tooling.
+Open to collaboration on software development, automation, and AI tooling.
